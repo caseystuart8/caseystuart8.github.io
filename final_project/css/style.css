@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Lakki+Reddy|Open+Sans+Condensed:300&display=swap');
+
+body{
+  background-color: #b1b1cd;
+  color: black;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 70px;
+  border: 2px solid black;
+  padding: 30px 0;
+  margin-bottom: 60px;
+  width: 400 px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 20px;
+}
+img {
+    max-width: 100%;
+    height: 500px;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
